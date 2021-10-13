@@ -41,7 +41,7 @@ Eplanatory video of programming and development logic
 
 | Video | Caminho |
 | ------ | ------ |
-| Loom | [https://www.loom.com/share/d4e93b83376e4e65ab727ce438302963][PlDb] |
+| Loom | https://www.loom.com/share/d4e93b83376e4e65ab727ce438302963 |
 
 
 
